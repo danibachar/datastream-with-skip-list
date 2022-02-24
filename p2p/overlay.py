@@ -1,5 +1,5 @@
 from ..utils.skiplist import Skiplist
-from .flags import DEBUG
+from ..utils.flags import DEBUG
 
 import random
 class Overlay:

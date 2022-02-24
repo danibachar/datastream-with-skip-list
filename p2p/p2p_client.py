@@ -1,7 +1,7 @@
 
 from threading import Thread
 import time, uuid
-from .flags import DEBUG
+from ..utils.flags import DEBUG
 
 class Client:
   """A node from a skip list"""    
