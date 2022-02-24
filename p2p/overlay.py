@@ -1,5 +1,4 @@
-import imp
-import .skiplist
+from .skiplist import Skiplist
 from .flags import DEBUG
 
 import random

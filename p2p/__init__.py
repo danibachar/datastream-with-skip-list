@@ -1,2 +1,2 @@
-from overlay import Overlay
-from p2p_client import Client
+from .overlay import Overlay
+from .p2p_client import Client
